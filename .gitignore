@@ -18,7 +18,3 @@ build/
 # OS generated files
 .DS_Store
 Thumbs.db
-
-# Optional: npm package lock files (if you want to ignore)
-package-lock.json
-yarn.lock
